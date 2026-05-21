@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/priceless-gold/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Priceless Gold](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/priceless-gold/) |
+| **Get License** | [Get License For Priceless Gold](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/priceless-gold/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kaaliyan raatan vich main takda haan tera glow
+> Naina de ishareyan ch labhda haan magic show
+> Mera dil dhadakda ae kalli vekh ke shining light
+> Tainu main apna banaunda haan in the night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
