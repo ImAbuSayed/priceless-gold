@@ -13,9 +13,9 @@
 | **Title** | Priceless Gold |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | May 18, 2026 |
-| **Song Page** | [Open Song Page](https://imabusayed.github.io/priceless-gold/) |
+| **Song Page** | Pending |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Priceless Gold](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/priceless-gold/) |
+| **Get License** | [Commercial Licensing for Priceless Gold](https://music.abusayed.com.bd/Licensing/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `03f9a8016ede1a713bed08e06325f99c2c784b4e0c9367bfeefb00d1e57c7618` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
